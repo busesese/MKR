@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2020-02-27 16:17
 # @Author  : WenYi
-# @Contact : wenyi@cvte.com
+# @Contact : 1244058349@qq.com
 # @Description :  some utils tool for model
 
 import torch.nn as nn
